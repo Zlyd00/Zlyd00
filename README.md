@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Zlydo 👀</h1>
 
-<!--
-**Zlyd00/Zlyd00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=zlyd00&show_icons=true&icon_color=ffffff&theme=dark)](https://github.com/zlyd00)
 
-Here are some ideas to get you started:
+### Languages
+![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+![Aiogram](https://img.shields.io/badge/-aiogram-000000?style=for-the-badge&logo=telegram)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=postgresql)
+
+<br />
+<br />
+<br />
+
+## Me
+[![Github](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)](https://github.com/zlyd00)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/zlydo)
