@@ -8,7 +8,6 @@
 
 ### Stack
 ![Aiogram](https://img.shields.io/badge/-aiogram-000000?style=for-the-badge&logo=telegram)
-![Sqlaclhemy](https://img.shields.io/badge/-sqlalchemy-000000?style=for-the-badge&logo=sqlalchemy)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=postgresql)
